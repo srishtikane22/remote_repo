@@ -2,4 +2,4 @@
 
 hello world
 
-testing out command: git fetch
+testing out command: git pull
